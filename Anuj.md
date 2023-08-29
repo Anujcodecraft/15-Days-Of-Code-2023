@@ -2,6 +2,9 @@
 ### Day 1
 [08] [29], 2023
 
-Question 1 [Submission Link]
-Question 2 [Submission Link]
-Other Tasks
+Question 1 link [https://codeforces.com/contest/1855/problem/A] submission link   https://codeforces.com/contest/1855/submission/220971113
+<br>
+Question 2 [https://codeforces.com/contest/1857/problem/A]  submission link   https://codeforces.com/contest/1857/submission/220967894
+<br>
+Question 3 https://codeforces.com/contest/1794/problem/A  submission link   https://codeforces.com/contest/1794/submission/220907942
+
