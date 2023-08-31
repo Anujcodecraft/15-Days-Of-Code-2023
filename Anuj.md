@@ -14,3 +14,6 @@ question 5 https://codeforces.com/problemset/problem/158/A  submission link   ht
 
 ### Day 2
 [08] [30],2023
+question 1 link https://codeforces.com/contest/1850/problem/B  submission link   https://codeforces.com/contest/1850/submission/221013480
+<br>
+sorry sir due to raksha bandhan i hve  attempt only one que. but sir i will cover it on next day 
