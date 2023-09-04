@@ -59,3 +59,11 @@ question 4 https://leetcode.com/problems/set-matrix-zeroes/    submission link  
 [09][02],[2023]
 #### 2 STL videos of luv
 sir due to bad health i have watched only 2 videos.
+
+## Day 6
+[09][03],[2023]
+#### 2 STL videos of luv
+#### codeforces
+question 1 https://codeforces.com/problemset/problem/231/A   submission link  https://codeforces.com/problemset/submission/231/221637787 <br>
+question 2 https://codeforces.com/problemset/problem/22/A   submission link  https://codeforces.com/problemset/submission/22/221676714
+
