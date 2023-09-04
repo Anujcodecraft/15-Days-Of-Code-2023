@@ -54,3 +54,8 @@ question 1 https://leetcode.com/problems/two-sum/  submission link  https://leet
 question 2 https://leetcode.com/problems/longest-substring-without-repeating-characters/   submission link   https://leetcode.com/submissions/detail/1037602516/ <br>
 question 3 https://leetcode.com/problems/integer-to-roman/   submission link   https://leetcode.com/submissions/detail/1037629881/ <br>
 question 4 https://leetcode.com/problems/set-matrix-zeroes/    submission link   https://leetcode.com/submissions/detail/1037667928/
+
+## Day 5
+[09][02],[2023]
+#### 2 STL videos of luv
+sir due to bad health i have watched only 2 videos.
