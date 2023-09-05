@@ -67,3 +67,12 @@ sir due to bad health i have watched only 2 videos.
 question 1 https://codeforces.com/problemset/problem/231/A   submission link  https://codeforces.com/problemset/submission/231/221637787 <br>
 question 2 https://codeforces.com/problemset/problem/22/A   submission link  https://codeforces.com/problemset/submission/22/221676714
 
+## Day 7
+[09][04],[2023]
+
+#### codeforces
+
+question 1 https://codeforces.com/contest/1809/problem/A    submission link  https://codeforces.com/contest/1809/submission/221823375 <br>
+question 2 https://codeforces.com/contest/1806/problem/A    submission link   https://codeforces.com/contest/1806/submission/221826742 <br>
+question 3https://codeforces.com/contest/1743/problem/B      submission link    https://codeforces.com/contest/1743/submission/221834958
+question 4 https://codeforces.com/contest/1789/problem/B     submission link    https://codeforces.com/contest/1789/submission/221859839
