@@ -76,3 +76,13 @@ question 1 https://codeforces.com/contest/1809/problem/A    submission link  htt
 question 2 https://codeforces.com/contest/1806/problem/A    submission link   https://codeforces.com/contest/1806/submission/221826742 <br>
 question 3https://codeforces.com/contest/1743/problem/B      submission link    https://codeforces.com/contest/1743/submission/221834958
 question 4 https://codeforces.com/contest/1789/problem/B     submission link    https://codeforces.com/contest/1789/submission/221859839
+
+## Day 8
+[09][05],[2023]
+
+studuied linked list
+### Leetcode
+question 1 https://leetcode.com/problems/remove-nth-node-from-end-of-list/  submission link   https://leetcode.com/submissions/detail/1041338022/ <br>
+question 2  https://leetcode.com/problems/delete-node-in-a-linked-list/     submission link   https://leetcode.com/submissions/detail/1041375662/ <br>
+question 3 https://leetcode.com/problems/reverse-linked-list/         submission link    https://leetcode.com/submissions/detail/1041633713/ <br>
+question 4 https://leetcode.com/problems/middle-of-the-linked-list/    submission link   https://leetcode.com/submissions/#/1
