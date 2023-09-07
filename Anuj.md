@@ -100,4 +100,4 @@ question 1 https://leetcode.com/problems/reverse-nodes-in-k-group/   submission 
 question 2 https://leetcode.com/problems/single-number/       submission link   https://leetcode.com/submissions/detail/1042918421/ <br>
 question 3 https://leetcode.com/problems/linked-list-cycle-ii/   submission link  https://leetcode.com/submissions/detail/1042971504/ <br>
 question 4 https://leetcode.com/problems/palindrome-linked-list/  submission link  https://leetcode.com/submissions/detail/1043125268/ <br>
-question 5 https://leetcode.com/problems/remove-duplicates-from-sorted-list/   submission link  https://leetcode.com/submissions/detail/1043143286/
+question 5 https://leetcode.com/problems/remove-duplicates-from-sorted-list/   submission link  https://leetcode.com/submissions/detail/1043143286/.
