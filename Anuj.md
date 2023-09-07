@@ -86,3 +86,18 @@ question 1 https://leetcode.com/problems/remove-nth-node-from-end-of-list/  subm
 question 2  https://leetcode.com/problems/delete-node-in-a-linked-list/     submission link   https://leetcode.com/submissions/detail/1041375662/ <br>
 question 3 https://leetcode.com/problems/reverse-linked-list/         submission link    https://leetcode.com/submissions/detail/1041633713/ <br>
 question 4 https://leetcode.com/problems/middle-of-the-linked-list/    submission link   https://leetcode.com/submissions/#/1
+
+### Day 9
+[09][06],[2023]
+
+not study anything due to janmastmi celeberation
+
+### Day 10
+[09][07],[2023]
+
+study linked list
+question 1 https://leetcode.com/problems/reverse-nodes-in-k-group/   submission link  https://leetcode.com/submissions/detail/1042845759/ <br>
+question 2 https://leetcode.com/problems/single-number/       submission link   https://leetcode.com/submissions/detail/1042918421/ <br>
+question 3 https://leetcode.com/problems/linked-list-cycle-ii/   submission link  https://leetcode.com/submissions/detail/1042971504/ <br>
+question 4 https://leetcode.com/problems/palindrome-linked-list/  submission link  https://leetcode.com/submissions/detail/1043125268/ <br>
+question 5 https://leetcode.com/problems/remove-duplicates-from-sorted-list/   submission link  https://leetcode.com/submissions/detail/1043143286/
