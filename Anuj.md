@@ -106,11 +106,11 @@ question 5 https://leetcode.com/problems/remove-duplicates-from-sorted-list/   s
 [09][08],[2023]
 due to fever i have not practise ;
 
-### Day 11
+### Day 12
 [09][09],[2023]
 study dbms,dsa;
 
-### Day 11
+### Day 13
 [09][10],[2023]
 linked list , 2 videos of luv;
 question 2 https://practice.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/0 <br>
@@ -122,7 +122,7 @@ question 5   https://leetcode.com/problems/intersection-of-two-linked-lists/    
 
 
 
-### Day 11
+### Day 14
 [09][11],[2023]
 study recurrsion,linked list
 question 1  https://leetcode.com/problems/rotate-list/  submission link  https://leetcode.com/submissions/detail/1046603465/
